@@ -1,0 +1,13 @@
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\bin\Debug\netcoreapp3.1\EmailExtraction.exe
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\bin\Debug\netcoreapp3.1\EmailExtraction.deps.json
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\bin\Debug\netcoreapp3.1\EmailExtraction.runtimeconfig.json
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\bin\Debug\netcoreapp3.1\EmailExtraction.runtimeconfig.dev.json
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\bin\Debug\netcoreapp3.1\EmailExtraction.dll
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\bin\Debug\netcoreapp3.1\EmailExtraction.pdb
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.csproj.AssemblyReference.cache
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.AssemblyInfoInputs.cache
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.AssemblyInfo.cs
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.csproj.CoreCompileInputs.cache
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.dll
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.pdb
+C:\Work\Academy\c-sharp\exercises\EmailExtraction\EmailExtraction\EmailExtraction\obj\Debug\netcoreapp3.1\EmailExtraction.genruntimeconfig.cache
